@@ -1,0 +1,962 @@
+{
+    "364": {
+        "title": "HubSpot Marketing Hub",
+        "url": "https://www.g2.com/products/hubspot-marketing-hub/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/6e246ff896f288b2dc8d7d22f68db0a8/hubspot-marketing-hub.svg",
+        "attribute": {
+            "product_id": 364,
+            "product_uuid": "1a370c2e-6499-4095-952d-dbe542694fed",
+            "product": "HubSpot Marketing Hub",
+            "vendor_id": 316,
+            "product_type": "Software",
+            "category_id": 367,
+            "category": "Attribution",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "121648": {
+        "title": "Mailchimp All-in-One Marketing Platform",
+        "url": "https://www.g2.com/products/mailchimp-all-in-one-marketing-platform/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/a37cfb0864849a5867bf8298de8c7304/mailchimp-all-in-one-marketing-platform.svg",
+        "attribute": {
+            "product_id": 121648,
+            "product_uuid": "7e8cd232-ad1b-4f26-9bac-febb91130ab8",
+            "product": "Mailchimp All-in-One Marketing Platform",
+            "vendor_id": 518,
+            "product_type": "Software",
+            "category_id": 632,
+            "category": "Landing Page Builders",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "3551": {
+        "title": "Semrush",
+        "url": "https://www.g2.com/products/semrush/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/13ad2b9b52245acda92fc7e0248eb25b/semrush.svg",
+        "attribute": {
+            "product_id": 3551,
+            "product_uuid": "09365472-5246-46a7-b3d1-9f62d662662f",
+            "product": "Semrush",
+            "vendor_id": 2660,
+            "product_type": "Software",
+            "category_id": 624,
+            "category": "Marketing Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "6073": {
+        "title": "Google Cloud BigQuery",
+        "url": "https://www.g2.com/products/google-cloud-bigquery/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/1f5632d0fd8552cc5326a9669cc18b4d/google-cloud-bigquery.svg",
+        "attribute": {
+            "product_id": 6073,
+            "product_uuid": "f4f6acef-75df-46db-9eee-fdc97e2683ca",
+            "product": "Google Cloud BigQuery",
+            "vendor_id": 311,
+            "product_type": "Software",
+            "category_id": 77,
+            "category": "Data Warehouse",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "16131": {
+        "title": "CleverTap",
+        "url": "https://www.g2.com/products/clevertap/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/15c9ef7616b710d990e8701018e610fc/clevertap.svg",
+        "attribute": {
+            "product_id": 16131,
+            "product_uuid": "f9a34a03-8004-4227-885c-a9c5d9fd5f4c",
+            "product": "CleverTap",
+            "vendor_id": 21601,
+            "product_type": "Software",
+            "category_id": 71,
+            "category": "Mobile Marketing",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "14801": {
+        "title": "SproutLoud",
+        "url": "https://www.g2.com/products/sproutloud/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/8a095fd21ff11b3e129dca1052dac753/sproutloud.svg",
+        "attribute": {
+            "product_id": 14801,
+            "product_uuid": "a268a0a4-5e68-4e26-86a0-fe38a6d99d36",
+            "product": "SproutLoud",
+            "vendor_id": 12624,
+            "product_type": "Software",
+            "category_id": 632,
+            "category": "Landing Page Builders",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "29406": {
+        "title": "Supermetrics",
+        "url": "https://www.g2.com/products/supermetrics/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/6ae57098d71912ac6e6c7f64cfdbdbbb/supermetrics.svg",
+        "attribute": {
+            "product_id": 29406,
+            "product_uuid": "74b9bdaa-d731-42e8-8242-f720f26f6fa6",
+            "product": "Supermetrics",
+            "vendor_id": 23259,
+            "product_type": "Software",
+            "category_id": 11,
+            "category": "Digital Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "3326": {
+        "title": "CallRail",
+        "url": "https://www.g2.com/products/callrail/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/dc5a7c4a387a7c639e8eb054c965ecb7/callrail.svg",
+        "attribute": {
+            "product_id": 3326,
+            "product_uuid": "b03b065f-097f-4f16-b3f9-a35782db8297",
+            "product": "CallRail",
+            "vendor_id": 2455,
+            "product_type": "Software",
+            "category_id": 29,
+            "category": "Contact Center",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "16446": {
+        "title": "AgencyAnalytics",
+        "url": "https://www.g2.com/products/agencyanalytics/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/491ffc24550886572f36b0de7e64a082/agencyanalytics.svg",
+        "attribute": {
+            "product_id": 16446,
+            "product_uuid": "89346a39-59ee-4b9f-9e95-3c80c74fac98",
+            "product": "AgencyAnalytics",
+            "vendor_id": 13818,
+            "product_type": "Software",
+            "category_id": 208,
+            "category": "Data Visualization",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "56231": {
+        "title": "MoEngage",
+        "url": "https://www.g2.com/products/moengage/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/83adfbfdcb23e3dc26f5ef3fcd5713fd/moengage.svg",
+        "attribute": {
+            "product_id": 56231,
+            "product_uuid": "4e5e12c1-7af4-444a-8bbe-99be852a83e6",
+            "product": "MoEngage",
+            "vendor_id": 42818,
+            "product_type": "Software",
+            "category_id": 71,
+            "category": "Mobile Marketing",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "122367": {
+        "title": "Dynamics 365 Marketing",
+        "url": "https://www.g2.com/products/dynamics-365-marketing/reviews",
+        "image": "https://images.g2crowd.com/uploads/vendor/image/359/large_detail_1445960004.jpeg",
+        "attribute": {
+            "product_id": 122367,
+            "product_uuid": "343e80b4-0308-4811-8c15-9b0cf946ac05",
+            "product": "Dynamics 365 Marketing",
+            "vendor_id": 359,
+            "product_type": "Software",
+            "category_id": 624,
+            "category": "Marketing Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "30396": {
+        "title": "Netcore Customer Engagement and Experience Platform",
+        "url": "https://www.g2.com/products/netcore-customer-engagement-and-experience-platform/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/0fe6bedb40e97f057ee99ecc629c53af/netcore-customer-engagement-and-experience-platform.svg",
+        "attribute": {
+            "product_id": 30396,
+            "product_uuid": "3e6f1041-86c0-445c-846f-07fcb500aadd",
+            "product": "Netcore Customer Engagement and Experience Platform",
+            "vendor_id": 24077,
+            "product_type": "Software",
+            "category_id": 71,
+            "category": "Mobile Marketing",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "3063": {
+        "title": "Invoca",
+        "url": "https://www.g2.com/products/invoca/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/c6e9b5ea6ac9e55009255de6b07777be/invoca.svg",
+        "attribute": {
+            "product_id": 3063,
+            "product_uuid": "ca8b43c2-e3da-43b9-94d7-a8379990f575",
+            "product": "Invoca",
+            "vendor_id": 2277,
+            "product_type": "Software",
+            "category_id": 1989,
+            "category": "Contact Center Quality Assurance",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "66642": {
+        "title": "Singular",
+        "url": "https://www.g2.com/products/singular/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/6f754a1a8809c13f66c00c798d9f9d55/singular.svg",
+        "attribute": {
+            "product_id": 66642,
+            "product_uuid": "b190b5c5-05bf-4e6d-b87f-e1fd12e1e7b0",
+            "product": "Singular",
+            "vendor_id": 42487,
+            "product_type": "Software",
+            "category_id": 534,
+            "category": "Mobile App Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "15218": {
+        "title": "WhatConverts",
+        "url": "https://www.g2.com/products/whatconverts/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/d92d25660d9b18514f14665d75e06d95/whatconverts.svg",
+        "attribute": {
+            "product_id": 15218,
+            "product_uuid": "aa35ccc0-bd85-4160-8dd2-31de29778bc9",
+            "product": "WhatConverts",
+            "vendor_id": 12910,
+            "product_type": "Software",
+            "category_id": 624,
+            "category": "Marketing Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "14346": {
+        "title": "Funnel",
+        "url": "https://www.g2.com/products/funnel/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/7dea705fe89341848ee3e39a93cc0d47/funnel.svg",
+        "attribute": {
+            "product_id": 14346,
+            "product_uuid": "885879c5-2e30-4a4f-b836-a52eb0d1a413",
+            "product": "Funnel",
+            "vendor_id": 12242,
+            "product_type": "Software",
+            "category_id": 11,
+            "category": "Digital Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "472": {
+        "title": "Salesforce Marketing Cloud Account Engagement",
+        "url": "https://www.g2.com/products/salesforce-marketing-cloud-account-engagement/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/826ce87155a61f72d3dfd92c5283eed8/salesforce-marketing-cloud-account-engagement.svg",
+        "attribute": {
+            "product_id": 472,
+            "product_uuid": "47d9fb13-8052-47d0-9770-2cdf09106348",
+            "product": "Salesforce Marketing Cloud Account Engagement",
+            "vendor_id": 469,
+            "product_type": "Software",
+            "category_id": 624,
+            "category": "Marketing Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "5290": {
+        "title": "WebEngage",
+        "url": "https://www.g2.com/products/webengage/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/037a48e05d1db50732f495775864004e/webengage.svg",
+        "attribute": {
+            "product_id": 5290,
+            "product_uuid": "f386bd31-cf18-4fd9-8c3e-5a807600d5b4",
+            "product": "WebEngage",
+            "vendor_id": 4082,
+            "product_type": "Software",
+            "category_id": 624,
+            "category": "Marketing Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "8289": {
+        "title": "OWOX BI",
+        "url": "https://www.g2.com/products/owox-bi/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/5d2fb837f19c25171c0e0153713754f7/owox-bi.svg",
+        "attribute": {
+            "product_id": 8289,
+            "product_uuid": "c56f3109-c4bd-4ba4-a40f-898d72743ad8",
+            "product": "OWOX BI",
+            "vendor_id": 6780,
+            "product_type": "Software",
+            "category_id": 624,
+            "category": "Marketing Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "4054": {
+        "title": "Constant Contact Advanced Automation & CRM Platform",
+        "url": "https://www.g2.com/products/constant-contact-advanced-automation-crm-platform/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/dc63bcf74173270f8007613ccba51fcb/constant-contact-lead-gen-crm-formerly-sharpspring.svg",
+        "attribute": {
+            "product_id": 4054,
+            "product_uuid": "9e255a8c-fbe3-4d3d-ac67-766827950130",
+            "product": "Constant Contact Advanced Automation & CRM Platform",
+            "vendor_id": 126161,
+            "product_type": "Software",
+            "category_id": 624,
+            "category": "Marketing Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "144665": {
+        "title": "Dataslayer.ai",
+        "url": "https://www.g2.com/products/dataslayer-ai/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/88abdd70bdf462f1fb892c5c6b5af501/dataslayer-ai.svg",
+        "attribute": {
+            "product_id": 144665,
+            "product_uuid": "94daa961-588f-4bcc-bcb3-1688b6db302d",
+            "product": "Dataslayer.ai",
+            "vendor_id": 127311,
+            "product_type": "Software",
+            "category_id": 11,
+            "category": "Digital Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "159890": {
+        "title": "Tracksuit",
+        "url": "https://www.g2.com/products/tracksuit/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_0d7c825b238f35c000e35a5bf6097373/tracksuit.png",
+        "attribute": {
+            "product_id": 159890,
+            "product_uuid": "16a284ff-121b-487d-9e1c-e39a5173d1c4",
+            "product": "Tracksuit",
+            "vendor_id": 138438,
+            "product_type": "Software",
+            "category_id": 624,
+            "category": "Marketing Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "3571": {
+        "title": "Emarsys",
+        "url": "https://www.g2.com/products/emarsys/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/1dccb3a0c03048a25eaea20bde1abf12/emarsys.svg",
+        "attribute": {
+            "product_id": 3571,
+            "product_uuid": "ca072297-2fd8-4890-b153-cf422c253a4e",
+            "product": "Emarsys",
+            "vendor_id": 82049,
+            "product_type": "Software",
+            "category_id": 1673,
+            "category": "Personalization Engines",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "63601": {
+        "title": "Mouseflow",
+        "url": "https://www.g2.com/products/mouseflow/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/656105f9f4043362adf04f48e4300760/mouseflow.svg",
+        "attribute": {
+            "product_id": 63601,
+            "product_uuid": "4ae40e8a-6c42-4975-8d9d-9e14f2b17720",
+            "product": "Mouseflow",
+            "vendor_id": 47349,
+            "product_type": "Software",
+            "category_id": 631,
+            "category": "Heatmap Tools",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "7440": {
+        "title": "CAKE",
+        "url": "https://www.g2.com/products/cake/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/101f4d8c943bc8c93797800038c4818e/cake.svg",
+        "attribute": {
+            "product_id": 7440,
+            "product_uuid": "366ff20a-a0ad-4295-89bb-c6aebf119fec",
+            "product": "CAKE",
+            "vendor_id": 98427,
+            "product_type": "Software",
+            "category_id": 624,
+            "category": "Marketing Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "8754": {
+        "title": "Optimove",
+        "url": "https://www.g2.com/products/optimove/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/506c33b24223481fd87aefe27d4f98e6/optimove.svg",
+        "attribute": {
+            "product_id": 8754,
+            "product_uuid": "d971ac4d-bcca-41be-a6e9-06d2c7e65c81",
+            "product": "Optimove",
+            "vendor_id": 7141,
+            "product_type": "Software",
+            "category_id": 1224,
+            "category": "Customer Journey Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "83870": {
+        "title": "Reportei",
+        "url": "https://www.g2.com/products/reportei/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/924fd0ec3a6573b8c04ebfcca33a9628/reportei.svg",
+        "attribute": {
+            "product_id": 83870,
+            "product_uuid": "42d36d9f-983e-4cf8-bd3e-dacc49fb60ed",
+            "product": "Reportei",
+            "vendor_id": 66154,
+            "product_type": "Software",
+            "category_id": 624,
+            "category": "Marketing Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "3330": {
+        "title": "CallTrackingMetrics",
+        "url": "https://www.g2.com/products/calltrackingmetrics/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/b22c6d545cb6edc7431179dd5f51ed8c/calltrackingmetrics.svg",
+        "attribute": {
+            "product_id": 3330,
+            "product_uuid": "e7cd2a88-b749-405e-bc2a-5fab2a07a614",
+            "product": "CallTrackingMetrics",
+            "vendor_id": 2459,
+            "product_type": "Software",
+            "category_id": 624,
+            "category": "Marketing Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "54066": {
+        "title": "RollWorks Account-Based Platform",
+        "url": "https://www.g2.com/products/rollworks-account-based-platform/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/15439267991306a1614dd84964d54ac3/rollworks-account-based-platform.svg",
+        "attribute": {
+            "product_id": 54066,
+            "product_uuid": "f4f1a887-084b-463d-9743-2131d00d15c6",
+            "product": "RollWorks Account-Based Platform",
+            "vendor_id": 102605,
+            "product_type": "Software",
+            "category_id": 1990,
+            "category": "Buyer Intent Data Providers",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "49498": {
+        "title": "StoneShot",
+        "url": "https://www.g2.com/products/stoneshot/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/9d58439e7a12d008fd2a22300dc5b294/stoneshot.svg",
+        "attribute": {
+            "product_id": 49498,
+            "product_uuid": "cc51d179-a9ec-4608-9787-331df336d6d7",
+            "product": "StoneShot",
+            "vendor_id": 38790,
+            "product_type": "Software",
+            "category_id": 624,
+            "category": "Marketing Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "60180": {
+        "title": "Albacross",
+        "url": "https://www.g2.com/products/albacross/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/dd365990e5581f401065144816b41e74/albacross.svg",
+        "attribute": {
+            "product_id": 60180,
+            "product_uuid": "82654e0a-faca-42bc-b958-99a0d83d8aec",
+            "product": "Albacross",
+            "vendor_id": 44953,
+            "product_type": "Software",
+            "category_id": 1990,
+            "category": "Buyer Intent Data Providers",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "2648": {
+        "title": "Maropost Marketing Cloud",
+        "url": "https://www.g2.com/products/maropost-marketing-cloud/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/3e818677acc08b2376d22e8b6a8dae77/maropost-marketing-cloud.svg",
+        "attribute": {
+            "product_id": 2648,
+            "product_uuid": "8896d3fb-45e8-4f4a-80cd-28a7f291d724",
+            "product": "Maropost Marketing Cloud",
+            "vendor_id": 1932,
+            "product_type": "Software",
+            "category_id": 1528,
+            "category": "E-Commerce Personalization",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "5170": {
+        "title": "SALESmanago",
+        "url": "https://www.g2.com/products/salesmanago/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_12173e6d39f24bf6518c66ff60bd1d57/salesmanago.png",
+        "attribute": {
+            "product_id": 5170,
+            "product_uuid": "c208d3b2-5886-4caf-b058-7b0cdb01eeaa",
+            "product": "SALESmanago",
+            "vendor_id": 3986,
+            "product_type": "Software",
+            "category_id": 630,
+            "category": "A/B Testing",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "4509": {
+        "title": "Salesforce Marketing Cloud Intelligence (formerly Datorama)",
+        "url": "https://www.g2.com/products/salesforce-marketing-cloud-intelligence-formerly-datorama/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/37ea9f1b3b4dc0292e89762129601b56/salesforce-marketing-cloud-intelligence-formerly-datorama.svg",
+        "attribute": {
+            "product_id": 4509,
+            "product_uuid": "b64e88b6-e313-4baa-aad0-75655bab364d",
+            "product": "Salesforce Marketing Cloud Intelligence (formerly Datorama)",
+            "vendor_id": 469,
+            "product_type": "Software",
+            "category_id": 624,
+            "category": "Marketing Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "126318": {
+        "title": "Dreamdata",
+        "url": "https://www.g2.com/products/dreamdata/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/a8d039537009900fa059db93fd55810f/dreamdata.svg",
+        "attribute": {
+            "product_id": 126318,
+            "product_uuid": "0249d686-1f0a-4e27-b3ad-9860c0ff1c94",
+            "product": "Dreamdata",
+            "vendor_id": 112731,
+            "product_type": "Software",
+            "category_id": 367,
+            "category": "Attribution",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "40840": {
+        "title": "DemandJump",
+        "url": "https://www.g2.com/products/demandjump/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/3459bae94490664279baba9123b83272/demandjump.svg",
+        "attribute": {
+            "product_id": 40840,
+            "product_uuid": "d10b2db8-32b3-4e23-99e2-c9de4f29eb86",
+            "product": "DemandJump",
+            "vendor_id": 32693,
+            "product_type": "Software",
+            "category_id": 1558,
+            "category": "Content Creation",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "19144": {
+        "title": "Xtremepush",
+        "url": "https://www.g2.com/products/xtremepush/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/7f95c0b5321ee8574674e487b11b9573/xtremepush.svg",
+        "attribute": {
+            "product_id": 19144,
+            "product_uuid": "43e75097-5ff0-4976-8a07-1ec770d5cf12",
+            "product": "Xtremepush",
+            "vendor_id": 15704,
+            "product_type": "Software",
+            "category_id": 1224,
+            "category": "Customer Journey Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "1171": {
+        "title": "Act-On",
+        "url": "https://www.g2.com/products/act-on/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/85e55d8dca1bc3644f5721c8ac708c6c/act-on.svg",
+        "attribute": {
+            "product_id": 1171,
+            "product_uuid": "07faed26-3caf-49f7-9fe0-6e8091f09cfd",
+            "product": "Act-On",
+            "vendor_id": 873,
+            "product_type": "Software",
+            "category_id": 624,
+            "category": "Marketing Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "14387": {
+        "title": "TapClicks",
+        "url": "https://www.g2.com/products/tapclicks/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/cb9f790606d41e604ee961596cb33df1/tapclicks.svg",
+        "attribute": {
+            "product_id": 14387,
+            "product_uuid": "92a7f5ca-3b87-4090-bf4f-92e4ee6603dc",
+            "product": "TapClicks",
+            "vendor_id": 12268,
+            "product_type": "Software",
+            "category_id": 624,
+            "category": "Marketing Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "112231": {
+        "title": "ROI Hunter",
+        "url": "https://www.g2.com/products/roi-hunter/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/1992727b107245dfbb81d1f96fbf8a5e/roi-hunter.svg",
+        "attribute": {
+            "product_id": 112231,
+            "product_uuid": "c11b8191-bd8c-4b6d-8842-cc4b93a6d624",
+            "product": "ROI Hunter",
+            "vendor_id": 101067,
+            "product_type": "Software",
+            "category_id": 289,
+            "category": "Cross-Channel Advertising",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "20337": {
+        "title": "ReportGarden",
+        "url": "https://www.g2.com/products/reportgarden/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b94ddf868e513990b8ee064542bfc1/reportgarden.png",
+        "attribute": {
+            "product_id": 20337,
+            "product_uuid": "b33b1f73-ce21-436b-b4c3-2db629de632d",
+            "product": "ReportGarden",
+            "vendor_id": 16592,
+            "product_type": "Software",
+            "category_id": 7,
+            "category": "Marketing Resource Management",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "42155": {
+        "title": "SAP Marketing Cloud",
+        "url": "https://www.g2.com/products/sap-marketing-cloud/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_b1b687cf1fe4ffc07fd3dfc95593d89d/sap-marketing-cloud.jpg",
+        "attribute": {
+            "product_id": 42155,
+            "product_uuid": "60eb644e-b3c6-4c9d-98ea-772f19cb2e61",
+            "product": "SAP Marketing Cloud",
+            "vendor_id": 407,
+            "product_type": "Software",
+            "category_id": 1037,
+            "category": "Marketing Account Intelligence",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "5408": {
+        "title": "Terminus ABM Platform",
+        "url": "https://www.g2.com/products/terminus-abm-platform/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/1554324723/terminus-abm-platform.svg",
+        "attribute": {
+            "product_id": 5408,
+            "product_uuid": "3714afce-56b1-4327-8873-58ed516e3aa1",
+            "product": "Terminus ABM Platform",
+            "vendor_id": 4151,
+            "product_type": "Software",
+            "category_id": 623,
+            "category": "Market Intelligence",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "97975": {
+        "title": "Windsor.ai",
+        "url": "https://www.g2.com/products/windsor-ai/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/c4ab4d8e2371eaef788b55f9060ac42c/windsor-ai.svg",
+        "attribute": {
+            "product_id": 97975,
+            "product_uuid": "f5938bb9-20a5-46e9-a0eb-ee99f4c6ab37",
+            "product": "Windsor.ai",
+            "vendor_id": 41661,
+            "product_type": "Software",
+            "category_id": 1178,
+            "category": "Google Workspace for Marketing",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "5048": {
+        "title": "Looker",
+        "url": "https://www.g2.com/products/looker/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/562cc527c501f42dc01cb43ff3d79dab/looker.svg",
+        "attribute": {
+            "product_id": 5048,
+            "product_uuid": "9f00c445-7daa-48e2-866e-1eee3641bfb2",
+            "product": "Looker",
+            "vendor_id": 311,
+            "product_type": "Software",
+            "category_id": 622,
+            "category": "Embedded Business Intelligence",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "19747": {
+        "title": "Mode",
+        "url": "https://www.g2.com/products/mode-mode/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/1d3a23ce6061348e708150c9a7dfdeed/mode-mode.svg",
+        "attribute": {
+            "product_id": 19747,
+            "product_uuid": "7b4e5445-f1ff-40c4-a71b-2e3a1f9b6653",
+            "product": "Mode",
+            "vendor_id": 16185,
+            "product_type": "Software",
+            "category_id": 620,
+            "category": "Analytics Platforms",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "116967": {
+        "title": "CHEQ Paradome",
+        "url": "https://www.g2.com/products/cheq-paradome/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/e8ca5cdde9156fe81bd092b223e4a7fe/cheq-paradome.svg",
+        "attribute": {
+            "product_id": 116967,
+            "product_uuid": "f1d3eef8-33c1-4451-a5f4-d2b6b2efca1a",
+            "product": "CHEQ Paradome",
+            "vendor_id": 104482,
+            "product_type": "Software",
+            "category_id": 1585,
+            "category": "Bot Detection and Mitigation",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "9072": {
+        "title": "Pathmatics by Sensor Tower",
+        "url": "https://www.g2.com/products/pathmatics-by-sensor-tower/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/6a02988cd380da425d4a6278f9818a9b/pathmatics-by-sensor-tower.svg",
+        "attribute": {
+            "product_id": 9072,
+            "product_uuid": "7a0a0ffc-38ab-4a8d-9036-1c058c48c98e",
+            "product": "Pathmatics by Sensor Tower",
+            "vendor_id": 7401,
+            "product_type": "Software",
+            "category_id": 2487,
+            "category": "Digital Advertising Intelligence",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "139848": {
+        "title": "Factors.AI",
+        "url": "https://www.g2.com/products/factors-ai/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/9566ea33afbaf899e9e3b14f2b16cef7/factors-ai.svg",
+        "attribute": {
+            "product_id": 139848,
+            "product_uuid": "80a7b0d8-2ca1-4176-bd16-3599fcfdcd16",
+            "product": "Factors.AI",
+            "vendor_id": 123655,
+            "product_type": "Software",
+            "category_id": 1038,
+            "category": "Account-Based Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "4724": {
+        "title": "Comscore",
+        "url": "https://www.g2.com/products/comscore/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/f87e65e538148f72650ee12d1ec58a97/comscore.svg",
+        "attribute": {
+            "product_id": 4724,
+            "product_uuid": "804129e7-bc61-4b03-987c-a2498bf21605",
+            "product": "Comscore",
+            "vendor_id": 3628,
+            "product_type": "Software",
+            "category_id": 2487,
+            "category": "Digital Advertising Intelligence",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "111470": {
+        "title": "VWO Insights - Web",
+        "url": "https://www.g2.com/products/vwo-insights-web/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/4ca57b9cc03c7bd54532a376917b70fc/vwo-insights-web.svg",
+        "attribute": {
+            "product_id": 111470,
+            "product_uuid": "0f47638d-5168-4b59-9736-fbb854caf7e4",
+            "product": "VWO Insights - Web",
+            "vendor_id": 3276,
+            "product_type": "Software",
+            "category_id": 1571,
+            "category": "Product Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "19027": {
+        "title": "Whatagraph",
+        "url": "https://www.g2.com/products/whatagraph/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/1b52fd075616564973496e5fc5c5b9af/whatagraph.svg",
+        "attribute": {
+            "product_id": 19027,
+            "product_uuid": "f7f858de-ed97-47bb-9e4f-1ee09f7bf592",
+            "product": "Whatagraph",
+            "vendor_id": 15608,
+            "product_type": "Software",
+            "category_id": 208,
+            "category": "Data Visualization",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "36485": {
+        "title": "DashThis",
+        "url": "https://www.g2.com/products/dashthis/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/1509643871/dashthis.svg",
+        "attribute": {
+            "product_id": 36485,
+            "product_uuid": "c2a22469-ab4e-4d83-831b-cddd5de928b9",
+            "product": "DashThis",
+            "vendor_id": 29156,
+            "product_type": "Software",
+            "category_id": 208,
+            "category": "Data Visualization",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "144582": {
+        "title": "HockeyStack",
+        "url": "https://www.g2.com/products/hockeystack/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/7d9591b92eb2d14c8399f1c30259e653/hockeystack.svg",
+        "attribute": {
+            "product_id": 144582,
+            "product_uuid": "b16fa6de-8afd-486e-a143-74eaa845fffa",
+            "product": "HockeyStack",
+            "vendor_id": 127249,
+            "product_type": "Software",
+            "category_id": 367,
+            "category": "Attribution",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "136251": {
+        "title": "Growth Channel",
+        "url": "https://www.g2.com/products/growth-channel/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/223fbc22c6ac4b4cedaef714ea44b16f/growth-channel.svg",
+        "attribute": {
+            "product_id": 136251,
+            "product_uuid": "895d22be-5a19-4ffe-9731-875c7efc57ff",
+            "product": "Growth Channel",
+            "vendor_id": 120743,
+            "product_type": "Software",
+            "category_id": 624,
+            "category": "Marketing Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "164742": {
+        "title": "ASK BOSCO\u00ae",
+        "url": "https://www.g2.com/products/ask-bosco/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f80bbc5b4ad4f4d5aa74ffd5ed61ad33/ask-bosco.png",
+        "attribute": {
+            "product_id": 164742,
+            "product_uuid": "60e7af51-0fa5-4e5f-969e-e8311465f327",
+            "product": "ASK BOSCO\u00ae",
+            "vendor_id": 141859,
+            "product_type": "Software",
+            "category_id": 2131,
+            "category": "Competitive Intelligence",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "20150": {
+        "title": "Databox",
+        "url": "https://www.g2.com/products/databox-inc-databox/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/1555402634/databox-inc-databox.svg",
+        "attribute": {
+            "product_id": 20150,
+            "product_uuid": "0c76a385-b760-4440-9a5c-ca57080a1590",
+            "product": "Databox",
+            "vendor_id": 16467,
+            "product_type": "Software",
+            "category_id": 208,
+            "category": "Data Visualization",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "73189": {
+        "title": "InfiniGrow",
+        "url": "https://www.g2.com/products/infinigrow/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_7098ff01b0cffaf19518757b0fad3827/infinigrow.jpg",
+        "attribute": {
+            "product_id": 73189,
+            "product_uuid": "1c2d7463-285e-4fcb-bd3a-be0ad2de8f8e",
+            "product": "InfiniGrow",
+            "vendor_id": 53540,
+            "product_type": "Software",
+            "category_id": 7,
+            "category": "Marketing Resource Management",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "85387": {
+        "title": "Tinyclues",
+        "url": "https://www.g2.com/products/tinyclues/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/9d4daf9236c67fdcd1b2dd995b891629/tinyclues.svg",
+        "attribute": {
+            "product_id": 85387,
+            "product_uuid": "10ddd839-ca71-4ee2-a71f-a9d4d81cb7a4",
+            "product": "Tinyclues",
+            "vendor_id": 59790,
+            "product_type": "Software",
+            "category_id": 624,
+            "category": "Marketing Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    },
+    "101297": {
+        "title": "Zoho Marketing Automation",
+        "url": "https://www.g2.com/products/zoho-marketing-automation/reviews",
+        "image": "https://images.g2crowd.com/uploads/product/hd_favicon/c3ca602631ac83ec977536cc8e85ddaf/zoho-marketing-automation.svg",
+        "attribute": {
+            "product_id": 101297,
+            "product_uuid": "0fef9d32-3abc-40a0-a4bf-bc74648813c4",
+            "product": "Zoho Marketing Automation",
+            "vendor_id": 463,
+            "product_type": "Software",
+            "category_id": 624,
+            "category": "Marketing Analytics",
+            "list_type": null,
+            "name": "Event::Products::ListItemClicked"
+        }
+    }
+}
